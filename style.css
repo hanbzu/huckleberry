@@ -36,7 +36,6 @@ header {
 
 .intro-chunk {
   padding: 48px 16px 24px;
-  max-width: 580px;
   margin: 0 auto;
 }
 
@@ -45,7 +44,6 @@ header {
 }
 
 .card {
-  max-width: 580px;
   margin: 0 auto;
   background: hsl(0deg, 0%, 100%);
   border-bottom: 4px solid hsl(0deg, 0%, 40%);
@@ -53,5 +51,6 @@ header {
 }
 
 .max-width-wrapper {
+  max-width: 580px;
   margin: 0 auto;
 }
